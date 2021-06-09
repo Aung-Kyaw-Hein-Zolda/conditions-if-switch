@@ -1,2 +1,2 @@
 # conditions-if-switch
-Code about conditions 
+This is my first assignment for your class. Promotion based on your age code. I use both if-else and switch conditions. 
